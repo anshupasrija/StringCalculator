@@ -1,0 +1,19 @@
+current directory: /vagrant/StringCalculator/.bundle/ruby/2.3.0/gems/nokogiri-1.5.9/ext/nokogiri
+/home/vagrant/.rvm/rubies/ruby-2.3.5/bin/ruby -r ./siteconf20211018-4421-9hrsmo.rb extconf.rb --use-system-libraries
+checking for libxml/parser.h... yes
+checking for libxslt/xslt.h... yes
+checking for libexslt/exslt.h... yes
+checking for iconv_open() in iconv.h... yes
+checking for xmlParseDoc() in -lxml2... yes
+checking for xsltParseStylesheetDoc() in -lxslt... yes
+checking for exsltFuncRegister() in -lexslt... yes
+checking for xmlHasFeature()... yes
+checking for xmlFirstElementChild()... yes
+checking for xmlRelaxNGSetParserStructuredErrors()... yes
+checking for xmlRelaxNGSetParserStructuredErrors()... yes
+checking for xmlRelaxNGSetValidStructuredErrors()... yes
+checking for xmlSchemaSetValidStructuredErrors()... yes
+checking for xmlSchemaSetParserStructuredErrors()... yes
+creating Makefile
+
+Text file busy @ unlink_internal - ./siteconf20211018-4421-9hrsmo.rb
